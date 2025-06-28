@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>مؤسسة الطاقة الشمسية</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>مؤسسة الطاقة الشمسية</h1>
+    <nav>
+      <a href="#home">الرئيسية</a>
+      <a href="#about">من نحن</a>
+      <a href="#projects">المشاريع</a>
+      <a href="#involved">شارك معنا</a>
+      <a href="#contact">اتصل بنا</a>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h2>نحو مستقبل مشرق بالطاقة الشمسية</h2>
+    <p>انضم إلينا في نشر الطاقة المتجددة في جميع أنحاء العالم.</p>
+  </section>
+
+  <section id="about">
+    <h2>من نحن</h2>
+    <p>مؤسسة غير ربحية تهدف إلى تعزيز استخدام الطاقة الشمسية من أجل تنمية مستدامة.</p>
+  </section>
+
+  <section id="projects">
+    <h2>مشاريعنا</h2>
+    <ul>
+      <li>الطاقة الشمسية للمدارس - 2023</li>
+      <li>شبكات شمسية مجتمعية في كينيا</li>
+      <li>تدريب النساء في مجال تكنولوجيا الطاقة الشمسية</li>
+    </ul>
+  </section>
+
+  <section id="involved">
+    <h2>شارك معنا</h2>
+    <p>تطوع، تبرع، أو شارك معنا لنشر الطاقة الشمسية للجميع.</p>
+  </section>
+
+  <section id="contact">
+    <h2>اتصل بنا</h2>
+    <form>
+      <input type="text" placeholder="الاسم" required />
+      <input type="email" placeholder="البريد الإلكتروني" required />
+      <textarea placeholder="رسالتك" required></textarea>
+      <button type="submit">إرسال</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>© 2025 مؤسسة الطاقة الشمسية</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
