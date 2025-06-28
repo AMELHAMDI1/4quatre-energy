@@ -1,0 +1,5 @@
+solar-energy-foundation-arabic/
+├── index.html
+├── style.css
+├── script.js
+└── assets/
